@@ -1,0 +1,24 @@
+# --- MATLAB (fichiers temporaires et de sauvegarde) ---
+*.asv
+*.m~
+*.slxc
+*.mex*
+slprj/
+sfun_tmp/
+*.fig
+
+# --- Données lourdes & Images (à NE PAS envoyer sur GitHub) ---
+*.mat
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.avi
+*.mp4
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
